@@ -7,3 +7,4 @@ AI Engineer Course/Practical-Tokenizer/my_finetuned_model/checkpoint-125/trainin
 AI Engineer Course/Practical-Tokenizer/my_finetuned_model/checkpoint-125/optimizer.pt
 *.db
 AI Engineer Course/Langchain-Ollama/Langgrapf/Pinecone/env
+AI Engineer Course/Langchain-Ollama/Langgrapf/Pinecone/.env
